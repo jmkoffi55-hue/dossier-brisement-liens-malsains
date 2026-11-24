@@ -1,0 +1,15 @@
+DOSSIER DE BRISEMENT DES LIENS MALSains — PWA
+
+Fichiers à placer à la racine du dépôt GitHub Pages :
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- dossier icons/
+
+Publier avec GitHub Pages depuis la branche principale (main/Principal), dossier racine (/).
+
+L'application conserve ses données dans le stockage local du navigateur/appareil.
+Effectuer régulièrement une sauvegarde depuis l'application et conserver les fichiers de sauvegarde dans un emplacement privé.
+Ne jamais publier les dossiers de candidats ni les sauvegardes contenant des données personnelles dans un dépôt public.
+
+Cette archive prépare une PWA installable, pas un APK Android.
